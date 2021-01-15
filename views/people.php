@@ -15,8 +15,7 @@
 				<a class="brand" href="index.php">Satire</a>
 				<div class="nav-collapse collapse">
 					<ul class="nav">
-						<li><a href="index.php">About</a></li>
-						<li><a href="PBL.php">Satire Interface</a></li>
+						<li><a href="index.php">Satire Interface</a></li>
 						<li><a href="https://github.com/arnabd88/Satire">Github Page</a>
 						<li  class="active"><a href="people.php">People</a></li>
 						<li><a href="http://www.cs.utah.edu/formal_verification/">Gauss Group</a></li>
